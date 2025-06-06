@@ -15,7 +15,7 @@ if p then
 	if s and j and j.pets and #j.pets > 0 then
 		for _, pet in ipairs(j.pets) do
 			local l = {}
-			table.insert(l, "Name:        " .. (pet.name or "nothing found"))
+			table.insert(l, "\nName:        " .. (pet.name or "nothing found"))
 			table.insert(l, "Description: " .. (pet.description or "nothing found"))
 			table.insert(l, "Chance:      " .. (pet.chance and tostring(pet.chance) or "nothing found"))
 			table.insert(l, "Demand:      " .. (pet.demand or "nothing found"))
