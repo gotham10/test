@@ -9,3 +9,7 @@ _G.link = {
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/gotham10/test/main/bgsiAPIData.lua"))()
 --||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+_G.search = "man+face+god"
+_G.variant = "Mythic" -- Normal, Shiny, Mythic, ShinyMythic
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gotham10/test/refs/heads/main/petValue.lua"))()
+--||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
