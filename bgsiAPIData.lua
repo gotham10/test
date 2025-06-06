@@ -9,14 +9,12 @@ local function fmt(s)
 end
 local links = typeof(_G.link) == "table" and _G.link or {_G.link}
 local imgExt = {".png", ".jpg", ".jpeg", ".svg", ".webp", ".gif", ".bmp"}
-
 local function isImage(url)
 	url = url:lower()
 	for _, ext in ipairs(imgExt) do
 		if url:sub(-#ext) == ext then return true end
 	end
 end
-
 for _, u in ipairs(links) do
 	if isImage(u) then
 		table.insert(t, u)
@@ -35,4 +33,4 @@ for _, u in ipairs(links) do
 		end
 	end
 end
-setclipboard(table.concat(t, "\n\n|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||\n\n"))
+setclipboard(table.concat(t, "\n\n|----------------------------------------------------------------------------------------------------------------------------------------------------------|n\n"))
