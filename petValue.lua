@@ -23,9 +23,7 @@ if p then
 			table.insert(l, "Value:       " .. (pet.value and tostring(pet.value) or "nothing found"))
 			table.insert(l, "Status:      " .. (pet.status or "nothing found"))
 			table.insert(l, "Variant:     " .. (pet.variant or "nothing found"))
-			print("|-------------------------------------------------------------------------------------------------|")
 			print(pad(l))
-			print("|-------------------------------------------------------------------------------------------------|")
 		end
 	end
 end
