@@ -11,5 +11,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/gotham10/test/main/bg
 --||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 _G.search = "man face god"
 _G.variant = "ShinyMythic" -- Normal, Shiny, Mythic, ShinyMythic
-loadstring(game:HttpGet("https://raw.githubusercontent.com/gotham10/test/refs/heads/main/petValue.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gotham10/test/main/petValue.lua"))()
 --||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
