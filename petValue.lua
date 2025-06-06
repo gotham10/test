@@ -1,4 +1,6 @@
-local link = "https://bgsi-kyc3.onrender.com/api/items?search=" .. _G.search .. "&variant=" .. _G.variant
+local s = _G.search:gsub(" ", "+")
+local v = _G.variant
+local link = "https://bgsi-kyc3.onrender.com/api/items?search=" .. s .. "&variant=" .. v
 local d = game:HttpGet(link)
 local function pad(l)
 	local w = 0
