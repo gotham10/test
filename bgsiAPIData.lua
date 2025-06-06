@@ -15,6 +15,8 @@ for _, u in ipairs(links) do
 		if p then
 			p = p:gsub("&quot;", "\"")
 			table.insert(t, fmt(p))
+		elseif r:find("[^\32-\126\r\n\t]") then
+			table.insert(t, u)
 		else
 			table.insert(t, fmt(r))
 		end
@@ -22,4 +24,4 @@ for _, u in ipairs(links) do
 		table.insert(t, "ERROR: " .. tostring(r))
 	end
 end
-setclipboard(table.concat(t, "\n\n|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||\n\n"))
+setclipboard(table.concat(t, "\n\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||\n\n"))
