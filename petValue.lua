@@ -1,5 +1,5 @@
 local link = "https://bgsi-kyc3.onrender.com/api/items?search=" .. _G.search .. "&variant=" .. _G.variant
-local d = game:HttpGet(link, true)
+local d = game:HttpGet(link)
 local function pad(l)
 	local w = 0
 	for _, v in ipairs(l) do if #v > w then w = #v end end
@@ -21,9 +21,9 @@ if p then
 			table.insert(l, "Value:       " .. (pet.value and tostring(pet.value) or "nothing found"))
 			table.insert(l, "Status:      " .. (pet.status or "nothing found"))
 			table.insert(l, "Variant:     " .. (pet.variant or "nothing found"))
-			print("|----------------------------------------------------------------------------------------------------------------------------------------------------------|")
+			print("|-------------------------------------------------------------------------------------------------|")
 			print(pad(l))
-			print("|----------------------------------------------------------------------------------------------------------------------------------------------------------|")
+			print("|-------------------------------------------------------------------------------------------------|")
 		end
 	end
 end
