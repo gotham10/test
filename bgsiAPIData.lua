@@ -1,4 +1,4 @@
-local s, r = pcall(function() return game:HttpGet(_G.link) end)
+local s, r = pcall(function() return game:HttpGet(_G.link, true) end)
 if s then
 	local p = r:match("<pre>(.-)</pre>")
 	if p then
