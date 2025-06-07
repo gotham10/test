@@ -1,0 +1,1628 @@
+{
+    "doggy": {
+        "Normal": "rbxassetid://105716458186041",
+        "Shiny": "rbxassetid://78385524120788",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "kitty": {
+        "Normal": "rbxassetid://136182543524566",
+        "Shiny": "rbxassetid://107484379413352",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "bunny": {
+        "Normal": "rbxassetid://124868139159568",
+        "Shiny": "rbxassetid://94898052528332",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "bear": {
+        "Normal": "rbxassetid://130303421356771",
+        "Shiny": "rbxassetid://104297025162106",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "king-doggy": {
+        "Normal": "rbxassetid://90180258328030",
+        "Shiny": "rbxassetid://122886742812315",
+        "Mythic": "rbxassetid://129866994329896",
+        "ShinyMythic": "rbxassetid://137302375759932"
+    },
+    "mouse": {
+        "Normal": "rbxassetid://129738500672564",
+        "Shiny": "rbxassetid://113473859675084",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "wolf": {
+        "Normal": "rbxassetid://132286741561024",
+        "Shiny": "rbxassetid://139001767570631",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "fox": {
+        "Normal": "rbxassetid://103100921574135",
+        "Shiny": "rbxassetid://79433017308214",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "polar-bear": {
+        "Normal": "rbxassetid://74189506845007",
+        "Shiny": "rbxassetid://104526732113294",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "panda": {
+        "Normal": "rbxassetid://115022226771074",
+        "Shiny": "rbxassetid://100131755062535",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "ice-kitty": {
+        "Normal": "rbxassetid://122617771322422",
+        "Shiny": "rbxassetid://108038404921084",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "deer": {
+        "Normal": "rbxassetid://117640871111838",
+        "Shiny": "rbxassetid://74893204557931",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "ice-wolf": {
+        "Normal": "rbxassetid://112663097432266",
+        "Shiny": "rbxassetid://91175593920003",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "piggy": {
+        "Normal": "rbxassetid://126005209800286",
+        "Shiny": "rbxassetid://100449039008111",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "ice-deer": {
+        "Normal": "rbxassetid://89234801506800",
+        "Shiny": "rbxassetid://90402327646631",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "ice-dragon": {
+        "Normal": "rbxassetid://112167721231774",
+        "Shiny": "rbxassetid://94422986737598",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "golem": {
+        "Normal": "rbxassetid://96561772312130",
+        "Shiny": "rbxassetid://131695199204174",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "dinosaur": {
+        "Normal": "rbxassetid://136766308309953",
+        "Shiny": "rbxassetid://127253788491436",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "ruby-golem": {
+        "Normal": "rbxassetid://87283653227747",
+        "Shiny": "rbxassetid://76036527489917",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "dragon": {
+        "Normal": "rbxassetid://114651533539774",
+        "Shiny": "rbxassetid://76431034154587",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "dark-dragon": {
+        "Normal": "rbxassetid://114782025459874",
+        "Shiny": "rbxassetid://95291070160423",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "emerald-golem": {
+        "Normal": "rbxassetid://117943061949912",
+        "Shiny": "rbxassetid://130080332987186",
+        "Mythic": "rbxassetid://71364911907818",
+        "ShinyMythic": "rbxassetid://76908143137824"
+    },
+    "magma-doggy": {
+        "Normal": "rbxassetid://119124196440746",
+        "Shiny": "rbxassetid://139545348445279",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "magma-deer": {
+        "Normal": "rbxassetid://73761576862071",
+        "Shiny": "rbxassetid://72419653767996",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "magma-fox": {
+        "Normal": "rbxassetid://71551279595708",
+        "Shiny": "rbxassetid://107430075457632",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "magma-bear": {
+        "Normal": "rbxassetid://121803513129635",
+        "Shiny": "rbxassetid://126554662078892",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "demon": {
+        "Normal": "rbxassetid://71888531838305",
+        "Shiny": "rbxassetid://96157978621758",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "inferno-dragon": {
+        "Normal": "rbxassetid://134572455978352",
+        "Shiny": "rbxassetid://89388252512800",
+        "Mythic": "rbxassetid://80035682832524",
+        "ShinyMythic": "rbxassetid://94747349710125"
+    },
+    "cave-bat": {
+        "Normal": "rbxassetid://93294160413976",
+        "Shiny": "rbxassetid://115574329171258",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "dark-bat": {
+        "Normal": "rbxassetid://113799451574025",
+        "Shiny": "rbxassetid://80134626584546",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "angel": {
+        "Normal": "rbxassetid://112292360768269",
+        "Shiny": "rbxassetid://99959000304515",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "emerald-bat": {
+        "Normal": "rbxassetid://130205712754161",
+        "Shiny": "rbxassetid://76112768260518",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "unicorn": {
+        "Normal": "rbxassetid://91859045003732",
+        "Shiny": "rbxassetid://115354210206795",
+        "Mythic": "rbxassetid://94136688249831",
+        "ShinyMythic": "rbxassetid://124445223953228"
+    },
+    "flying-pig": {
+        "Normal": "rbxassetid://118299916052281",
+        "Shiny": "rbxassetid://108822579247381",
+        "Mythic": "rbxassetid://79498492070152",
+        "ShinyMythic": "rbxassetid://132959504112054"
+    },
+    "space-mouse": {
+        "Normal": "rbxassetid://135043754095523",
+        "Shiny": "rbxassetid://112742089216721",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "space-bull": {
+        "Normal": "rbxassetid://139962127352917",
+        "Shiny": "rbxassetid://86759888574124",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "lunar-fox": {
+        "Normal": "rbxassetid://79035300026236",
+        "Shiny": "rbxassetid://96789005954849",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "lunarcorn": {
+        "Normal": "rbxassetid://140257565071918",
+        "Shiny": "rbxassetid://122694213022562",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "lunar-serpent": {
+        "Normal": "rbxassetid://129923067225161",
+        "Shiny": "rbxassetid://71831968325737",
+        "Mythic": "rbxassetid://128746247448355",
+        "ShinyMythic": "rbxassetid://124361472417361"
+    },
+    "electra": {
+        "Normal": "rbxassetid://116500311179740",
+        "Shiny": "rbxassetid://138951170227797",
+        "Mythic": "rbxassetid://138345556062231",
+        "ShinyMythic": "rbxassetid://76505798639885"
+    },
+    "void-kitty": {
+        "Normal": "rbxassetid://106486623692692",
+        "Shiny": "rbxassetid://98299711588470",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "void-bat": {
+        "Normal": "rbxassetid://70908392220156",
+        "Shiny": "rbxassetid://133135553484824",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "void-fox": {
+        "Normal": "rbxassetid://103797280739577",
+        "Shiny": "rbxassetid://114427178223777",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "void-demon": {
+        "Normal": "rbxassetid://136686021537465",
+        "Shiny": "rbxassetid://136094263998699",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "dark-phoenix": {
+        "Normal": "rbxassetid://121879532347673",
+        "Shiny": "rbxassetid://96543725025034",
+        "Mythic": "rbxassetid://98329771345437",
+        "ShinyMythic": "rbxassetid://97837991194893"
+    },
+    "neon-elemental": {
+        "Normal": "rbxassetid://76900428773295",
+        "Shiny": "rbxassetid://75299135501237",
+        "Mythic": "rbxassetid://98823105797670",
+        "ShinyMythic": "rbxassetid://115321521110239"
+    },
+    "nullvoid": {
+        "Normal": "rbxassetid://124799956485057",
+        "Shiny": "rbxassetid://132769360414533",
+        "Mythic": "rbxassetid://134388243020695",
+        "ShinyMythic": "rbxassetid://116241431469732"
+    },
+    "hell-piggy": {
+        "Normal": "rbxassetid://107945242196860",
+        "Shiny": "rbxassetid://92700191260519",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "hell-dragon": {
+        "Normal": "rbxassetid://91458267403650",
+        "Shiny": "rbxassetid://126841657900353",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "hell-crawler": {
+        "Normal": "rbxassetid://85762364191919",
+        "Shiny": "rbxassetid://97739309087713",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "inferno-demon": {
+        "Normal": "rbxassetid://84427036623497",
+        "Shiny": "rbxassetid://88056809847000",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "inferno-cube": {
+        "Normal": "rbxassetid://118510130470134",
+        "Shiny": "rbxassetid://79182973159304",
+        "Mythic": "rbxassetid://108444291064240",
+        "ShinyMythic": "rbxassetid://97641653727155"
+    },
+    "virus": {
+        "Normal": "rbxassetid://110185755598723",
+        "Shiny": "rbxassetid://104208878857321",
+        "Mythic": "rbxassetid://123553243933827",
+        "ShinyMythic": "rbxassetid://79500546432529"
+    },
+    "demon-doggy": {
+        "Normal": "rbxassetid://101269692150333",
+        "Shiny": "rbxassetid://127440148513684",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "skeletal-deer": {
+        "Normal": "rbxassetid://113928895692385",
+        "Shiny": "rbxassetid://108708065111555",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "night-crawler": {
+        "Normal": "rbxassetid://131225854531088",
+        "Shiny": "rbxassetid://87587834256377",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "hell-bat": {
+        "Normal": "rbxassetid://96741744508615",
+        "Shiny": "rbxassetid://75103443297629",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "green-hydra": {
+        "Normal": "rbxassetid://104746232435869",
+        "Shiny": "rbxassetid://86848062315342",
+        "Mythic": "rbxassetid://101754597452868",
+        "ShinyMythic": "rbxassetid://85937441131538"
+    },
+    "demonic-hydra": {
+        "Normal": "rbxassetid://121007330211533",
+        "Shiny": "rbxassetid://121831852984011",
+        "Mythic": "rbxassetid://94069598639630",
+        "ShinyMythic": "rbxassetid://85260875883743"
+    },
+    "the-overlord": {
+        "Normal": "rbxassetid://81862077296078",
+        "Shiny": "rbxassetid://116109471846939",
+        "Mythic": "rbxassetid://82077340381689",
+        "ShinyMythic": "rbxassetid://112536702440306"
+    },
+    "red-golem": {
+        "Normal": "rbxassetid://131645529949165",
+        "Shiny": "rbxassetid://92272547987214",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "orange-deer": {
+        "Normal": "rbxassetid://96265808091408",
+        "Shiny": "rbxassetid://104447143767793",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "yellow-fox": {
+        "Normal": "rbxassetid://125905911945628",
+        "Shiny": "rbxassetid://133884608297595",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "green-angel": {
+        "Normal": "rbxassetid://75803022621540",
+        "Shiny": "rbxassetid://95455922946139",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "hexarium": {
+        "Normal": "rbxassetid://71087965379129",
+        "Shiny": "rbxassetid://128101936411240",
+        "Mythic": "rbxassetid://86741891826454",
+        "ShinyMythic": "rbxassetid://89823280118528"
+    },
+    "rainbow-shock": {
+        "Normal": "rbxassetid://80342299362434",
+        "Shiny": "rbxassetid://139624175007925",
+        "Mythic": "rbxassetid://119992028070509",
+        "ShinyMythic": "rbxassetid://136701671381708"
+    },
+    "manny": {
+        "Normal": "rbxassetid://136450592953585",
+        "Shiny": "rbxassetid://114012206693503",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "manicorn": {
+        "Normal": "rbxassetid://125187740011203",
+        "Shiny": "rbxassetid://136834173199830",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "sigma-serpent": {
+        "Normal": "rbxassetid://120522753533593",
+        "Shiny": "rbxassetid://92927562755760",
+        "Mythic": "rbxassetid://118748493382296",
+        "ShinyMythic": "rbxassetid://89326610971101"
+    },
+    "manarium": {
+        "Normal": "rbxassetid://96886389446306",
+        "Shiny": "rbxassetid://87072251154600",
+        "Mythic": "rbxassetid://112814884526629",
+        "ShinyMythic": "rbxassetid://123771065624121"
+    },
+    "man-face-god": {
+        "Normal": "rbxassetid://82965308391958",
+        "Shiny": "rbxassetid://84512985957151",
+        "Mythic": "rbxassetid://126432034432566",
+        "ShinyMythic": "rbxassetid://110384554696096"
+    },
+    "bunnnny": {
+        "Normal": "rbxassetid://110946352972474",
+        "Shiny": "rbxassetid://93248525845837",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "long-kitty": {
+        "Normal": "rbxassetid://119634181104666",
+        "Shiny": "rbxassetid://110282638403474",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "doof": {
+        "Normal": "rbxassetid://84912767727395",
+        "Shiny": "rbxassetid://93728970753640",
+        "Mythic": "rbxassetid://81945865269343",
+        "ShinyMythic": "rbxassetid://100771542732964"
+    },
+    "round": {
+        "Normal": "rbxassetid://137370752121359",
+        "Shiny": "rbxassetid://123907106583225",
+        "Mythic": "rbxassetid://114673821025917",
+        "ShinyMythic": "rbxassetid://74941803085231"
+    },
+    "silly-doggy-": {
+        "Normal": "rbxassetid://136400177227573",
+        "Shiny": "rbxassetid://91838639140469",
+        "Mythic": "rbxassetid://134489345601468",
+        "ShinyMythic": "rbxassetid://80021338472854"
+    },
+    "enlightened-kitty": {
+        "Normal": "rbxassetid://122259669272525",
+        "Shiny": "rbxassetid://116308362826258",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "judgement": {
+        "Normal": "rbxassetid://102786140868252",
+        "Shiny": "rbxassetid://110006241851417",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "ophanim": {
+        "Normal": "rbxassetid://94680130398483",
+        "Shiny": "rbxassetid://116946378224550",
+        "Mythic": "rbxassetid://76642953428686",
+        "ShinyMythic": "rbxassetid://120779162975826"
+    },
+    "seraph": {
+        "Normal": "rbxassetid://89406259803728",
+        "Shiny": "rbxassetid://99697506225209",
+        "Mythic": "rbxassetid://72318360051013",
+        "ShinyMythic": "rbxassetid://74573418733805"
+    },
+    "lunar-deity": {
+        "Normal": "rbxassetid://85587469397800",
+        "Shiny": "rbxassetid://130350931628389",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "solar-deity": {
+        "Normal": "rbxassetid://134628402584080",
+        "Shiny": "rbxassetid://119817581695133",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "crescent-empress": {
+        "Normal": "rbxassetid://138592293670867",
+        "Shiny": "rbxassetid://77931849920370",
+        "Mythic": "rbxassetid://84884643955388",
+        "ShinyMythic": "rbxassetid://114377918544383"
+    },
+    "avernus": {
+        "Normal": "rbxassetid://101820906833807",
+        "Shiny": "rbxassetid://121235836455795",
+        "Mythic": "rbxassetid://113077553823335",
+        "ShinyMythic": "rbxassetid://105994587891116"
+    },
+    "discord-imp": {
+        "Normal": "rbxassetid://127424277905900",
+        "Shiny": "rbxassetid://121883751295408",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "flying-gem": {
+        "Normal": "rbxassetid://137058516278425",
+        "Shiny": "rbxassetid://138545612281855",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "umbra": {
+        "Normal": "rbxassetid://125249100014282",
+        "Shiny": "rbxassetid://84695727888175",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "trio-cube": {
+        "Normal": "rbxassetid://127311779883521",
+        "Shiny": "rbxassetid://123178696068725",
+        "Mythic": "rbxassetid://139575878499816",
+        "ShinyMythic": "rbxassetid://85068003627303"
+    },
+    "evil-shock": {
+        "Normal": "rbxassetid://74756358022770",
+        "Shiny": "rbxassetid://82993807418706",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "holy-shock": {
+        "Normal": "rbxassetid://87357335772226",
+        "Shiny": "rbxassetid://131835208422374",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "king-soul": {
+        "Normal": "rbxassetid://91911264068662",
+        "Shiny": "rbxassetid://118925496119322",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "demonic-dogcat": {
+        "Normal": "rbxassetid://139629744666029",
+        "Shiny": "rbxassetid://126169873370845",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "rainbow-blitz": {
+        "Normal": "rbxassetid://82248376257636",
+        "Shiny": "rbxassetid://127263373580765",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "kitsune": {
+        "Normal": "rbxassetid://137454930152011",
+        "Shiny": "rbxassetid://81467799917609",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "abyssal-dragon": {
+        "Normal": "rbxassetid://140555653696845",
+        "Shiny": "rbxassetid://72350437169534",
+        "Mythic": "rbxassetid://125134238005840",
+        "ShinyMythic": "rbxassetid://92178733155291"
+    },
+    "hacker-prism": {
+        "Normal": "rbxassetid://88764484645152",
+        "Shiny": "rbxassetid://107346758048276",
+        "Mythic": "rbxassetid://84850053637294",
+        "ShinyMythic": "rbxassetid://97661041967973"
+    },
+    "moonburst": {
+        "Normal": "rbxassetid://122902111069533",
+        "Shiny": "rbxassetid://92936268760576",
+        "Mythic": "rbxassetid://122599025431038",
+        "ShinyMythic": "rbxassetid://107057120957083"
+    },
+    "sunburst": {
+        "Normal": "rbxassetid://139143026499191",
+        "Shiny": "rbxassetid://88775068999267",
+        "Mythic": "rbxassetid://91262235990773",
+        "ShinyMythic": "rbxassetid://110348969055139"
+    },
+    "midas": {
+        "Normal": "rbxassetid://89307911586165",
+        "Shiny": "rbxassetid://80438490583372",
+        "Mythic": "rbxassetid://115132249249329",
+        "ShinyMythic": "rbxassetid://128269931598351"
+    },
+    "patronus": {
+        "Normal": "rbxassetid://94392748552254",
+        "Shiny": "rbxassetid://138338380491055",
+        "Mythic": "rbxassetid://73085088086641",
+        "ShinyMythic": "rbxassetid://121702391632093"
+    },
+    "dowodle": {
+        "Normal": "rbxassetid://136489594823543",
+        "Shiny": "rbxassetid://101671336845496",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "beta-tv": {
+        "Normal": "rbxassetid://131408473856024",
+        "Shiny": "rbxassetid://79852109630604",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "enraged-phoenix": {
+        "Normal": "rbxassetid://107570455419383",
+        "Shiny": "rbxassetid://113743669461335",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "electra-hydra": {
+        "Normal": "rbxassetid://135131712275131",
+        "Shiny": "rbxassetid://138488373164398",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "paper-doggy": {
+        "Normal": "rbxassetid://116412942676621",
+        "Shiny": "rbxassetid://107372964901806",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "paper-bunny": {
+        "Normal": "rbxassetid://126388715768535",
+        "Shiny": "rbxassetid://70466841700556",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "chubby-bunny": {
+        "Normal": "rbxassetid://105432306560546",
+        "Shiny": "rbxassetid://110449606817749",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "hatchling": {
+        "Normal": "rbxassetid://119285236689048",
+        "Shiny": "rbxassetid://126418352072171",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "sweet-treat": {
+        "Normal": "rbxassetid://78848637998928",
+        "Shiny": "rbxassetid://84518745196741",
+        "Mythic": "rbxassetid://101958456373333",
+        "ShinyMythic": "rbxassetid://125017252768987"
+    },
+    "rainbow-marshmellow": {
+        "Normal": "rbxassetid://99797164913127",
+        "Shiny": "rbxassetid://113156755564013",
+        "Mythic": "rbxassetid://95756192435113",
+        "ShinyMythic": "rbxassetid://93613196809607"
+    },
+    "giant-chocolate-chicken": {
+        "Normal": "rbxassetid://78405356893234",
+        "Shiny": "rbxassetid://121098504222130",
+        "Mythic": "rbxassetid://83862207009106",
+        "ShinyMythic": "rbxassetid://91793667211055"
+    },
+    "bunny-doggy": {
+        "Normal": "rbxassetid://126178131383232",
+        "Shiny": "rbxassetid://125640287196502",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "egg-bunny": {
+        "Normal": "rbxassetid://99971205246669",
+        "Shiny": "rbxassetid://76077384828967",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "angel-bunny": {
+        "Normal": "rbxassetid://100484343035283",
+        "Shiny": "rbxassetid://84536350949982",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "seraphic-bunny": {
+        "Normal": "rbxassetid://79750206272909",
+        "Shiny": "rbxassetid://103392017403068",
+        "Mythic": "rbxassetid://93333271902816",
+        "ShinyMythic": "rbxassetid://124711616271771"
+    },
+    "ethereal-bunny": {
+        "Normal": "rbxassetid://93656019204074",
+        "Shiny": "rbxassetid://130649018220152",
+        "Mythic": "rbxassetid://91749246237791",
+        "ShinyMythic": "rbxassetid://121742387238600"
+    },
+    "cardinal-bunny": {
+        "Normal": "rbxassetid://104513918534463",
+        "Shiny": "rbxassetid://81866848585659",
+        "Mythic": "rbxassetid://118889671469786",
+        "ShinyMythic": "rbxassetid://96170721611701"
+    },
+    "easter-basket": {
+        "Normal": "rbxassetid://127748776007060",
+        "Shiny": "rbxassetid://91266745275312",
+        "Mythic": "rbxassetid://73135911297429",
+        "ShinyMythic": "rbxassetid://88763393448729"
+    },
+    "bow-bunny": {
+        "Normal": "rbxassetid://101840367549334",
+        "Shiny": "rbxassetid://81878017289027",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "easter-egg": {
+        "Normal": "rbxassetid://97739272143723",
+        "Shiny": "rbxassetid://100300586984302",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "flying-bunny": {
+        "Normal": "rbxassetid://132767819077599",
+        "Shiny": "rbxassetid://130968037860846",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "easter-serpent": {
+        "Normal": "rbxassetid://98938067959398",
+        "Shiny": "rbxassetid://125443598339397",
+        "Mythic": "rbxassetid://128879026211802",
+        "ShinyMythic": "rbxassetid://114527045780663"
+    },
+    "dualcorn": {
+        "Normal": "rbxassetid://101605071887404",
+        "Shiny": "rbxassetid://93628728332738",
+        "Mythic": "rbxassetid://82858029797469",
+        "ShinyMythic": "rbxassetid://85766838746496"
+    },
+    "holy-egg": {
+        "Normal": "rbxassetid://122905176769988",
+        "Shiny": "rbxassetid://96405481047772",
+        "Mythic": "rbxassetid://98349954814824",
+        "ShinyMythic": "rbxassetid://94212506544352"
+    },
+    "godly-gem": {
+        "Normal": "rbxassetid://135660573331096",
+        "Shiny": "rbxassetid://131352042214414",
+        "Mythic": "rbxassetid://79962120420648",
+        "ShinyMythic": "rbxassetid://126464346470111"
+    },
+    "dementor": {
+        "Normal": "rbxassetid://83620183601359",
+        "Shiny": "rbxassetid://70395978006731",
+        "Mythic": "rbxassetid://90646637371519",
+        "ShinyMythic": "rbxassetid://126118689750116"
+    },
+    "bronze-bunny": {
+        "Normal": "rbxassetid://113213527955425",
+        "Shiny": "rbxassetid://83519311440715",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "silver-fox": {
+        "Normal": "rbxassetid://122444893544859",
+        "Shiny": "rbxassetid://100728204642259",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "golden-dragon": {
+        "Normal": "rbxassetid://116610852449123",
+        "Shiny": "rbxassetid://129336435638666",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "diamond-serpent": {
+        "Normal": "rbxassetid://72409952288287",
+        "Shiny": "rbxassetid://133778634002878",
+        "Mythic": "rbxassetid://129721201697549",
+        "ShinyMythic": "rbxassetid://76876858250583"
+    },
+    "diamond-hexarium": {
+        "Normal": "rbxassetid://136410802303648",
+        "Shiny": "rbxassetid://82003997046134",
+        "Mythic": "rbxassetid://110459647433098",
+        "ShinyMythic": "rbxassetid://70570552386283"
+    },
+    "king-pufferfish": {
+        "Normal": "rbxassetid://78891298142055",
+        "Shiny": "rbxassetid://135162856369456",
+        "Mythic": "rbxassetid://135672381979356",
+        "ShinyMythic": "rbxassetid://123241517588205"
+    },
+    "royal-trophy": {
+        "Normal": "rbxassetid://102016856452664",
+        "Shiny": "rbxassetid://103886175167440",
+        "Mythic": "rbxassetid://71734612734368",
+        "ShinyMythic": "rbxassetid://87743556079640"
+    },
+    "chocolate-bunny": {
+        "Normal": "rbxassetid://76625492348694",
+        "Shiny": "rbxassetid://91443601878887",
+        "Mythic": "rbxassetid://81118434114062",
+        "ShinyMythic": "rbxassetid://135944243354588"
+    },
+    "easter-fluffle": {
+        "Normal": "rbxassetid://111160641904639",
+        "Shiny": "rbxassetid://133620067717567",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "dark-serpent": {
+        "Normal": "rbxassetid://98681684304520",
+        "Shiny": "rbxassetid://126906631192910",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "infernus": {
+        "Normal": "rbxassetid://84021466522802",
+        "Shiny": "rbxassetid://139125490541605",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "elite-challenger": {
+        "Normal": "rbxassetid://88302006299732",
+        "Shiny": "rbxassetid://87918443374697",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "elite-soul": {
+        "Normal": "rbxassetid://76138184593329",
+        "Shiny": "rbxassetid://124666781440286",
+        "Mythic": "rbxassetid://79208468612615",
+        "ShinyMythic": "rbxassetid://74538893448634"
+    },
+    "competitor-doggy": {
+        "Normal": "rbxassetid://127208677869819",
+        "Shiny": "rbxassetid://89651347381678",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "golden-golem": {
+        "Normal": "rbxassetid://138026763781707",
+        "Shiny": "rbxassetid://132684362621406",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "parasite": {
+        "Normal": "rbxassetid://74651112943866",
+        "Shiny": "rbxassetid://115141336334034",
+        "Mythic": "rbxassetid://106984089489667",
+        "ShinyMythic": "rbxassetid://82411303923037"
+    },
+    "starlight": {
+        "Normal": "rbxassetid://87591100580978",
+        "Shiny": "rbxassetid://111120928324007",
+        "Mythic": "rbxassetid://116635719928804",
+        "ShinyMythic": "rbxassetid://92718980367388"
+    },
+    "overseer": {
+        "Normal": "rbxassetid://103066660441260",
+        "Shiny": "rbxassetid://135282468413670",
+        "Mythic": "rbxassetid://101438224606618",
+        "ShinyMythic": "rbxassetid://111630848456135"
+    },
+    "game-doggy": {
+        "Normal": "rbxassetid://90643252257374",
+        "Shiny": "rbxassetid://107491835763520",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "gamer-boi": {
+        "Normal": "rbxassetid://126142834628447",
+        "Shiny": "rbxassetid://72474674070189",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "queen-of-hearts": {
+        "Normal": "rbxassetid://129024054398763",
+        "Shiny": "rbxassetid://130641327270296",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "mining-doggy": {
+        "Normal": "rbxassetid://122503117196490",
+        "Shiny": "rbxassetid://79474133380060",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "mining-bat": {
+        "Normal": "rbxassetid://112786499042328",
+        "Shiny": "rbxassetid://119531912421769",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "cave-mole": {
+        "Normal": "rbxassetid://93047026359490",
+        "Shiny": "rbxassetid://80686832114260",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "ore-golem": {
+        "Normal": "rbxassetid://83559948607250",
+        "Shiny": "rbxassetid://78142132254185",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "crystal-unicorn": {
+        "Normal": "rbxassetid://80913268248921",
+        "Shiny": "rbxassetid://80328115583771",
+        "Mythic": "rbxassetid://100717636189777",
+        "ShinyMythic": "rbxassetid://76169254234638"
+    },
+    "stone-gargoyle": {
+        "Normal": "rbxassetid://96447056752701",
+        "Shiny": "rbxassetid://118449202987348",
+        "Mythic": "rbxassetid://79313909775478",
+        "ShinyMythic": "rbxassetid://136984425928222"
+    },
+    "robo-kitty": {
+        "Normal": "rbxassetid://126153630042093",
+        "Shiny": "rbxassetid://126245004235143",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "martian-kitty": {
+        "Normal": "rbxassetid://95865916555707",
+        "Shiny": "rbxassetid://128126875255924",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "cyber-wolf": {
+        "Normal": "rbxassetid://112519144548644",
+        "Shiny": "rbxassetid://109676694882054",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "cyborg-phoenix": {
+        "Normal": "rbxassetid://105920543929343",
+        "Shiny": "rbxassetid://135337380770193",
+        "Mythic": "rbxassetid://102380696723944",
+        "ShinyMythic": "rbxassetid://88293167244219"
+    },
+    "space-invader": {
+        "Normal": "rbxassetid://119797844957100",
+        "Shiny": "rbxassetid://96247663419252",
+        "Mythic": "rbxassetid://120374926099633",
+        "ShinyMythic": "rbxassetid://79347814813084"
+    },
+    "bionic-shard": {
+        "Normal": "rbxassetid://113926773562723",
+        "Shiny": "rbxassetid://99439972902415",
+        "Mythic": "rbxassetid://91891367979946",
+        "ShinyMythic": "rbxassetid://112797928273116"
+    },
+    "mech-robot": {
+        "Normal": "rbxassetid://130370519146743",
+        "Shiny": "rbxassetid://119284114227733",
+        "Mythic": "rbxassetid://89902348379892",
+        "ShinyMythic": "rbxassetid://129610761607639"
+    },
+    "sleepy-bunny": {
+        "Normal": "rbxassetid://116722260024080",
+        "Shiny": "rbxassetid://80968988528542",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "starry-lamb": {
+        "Normal": "rbxassetid://129047181207186",
+        "Shiny": "rbxassetid://115966365794799",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "moon-deer": {
+        "Normal": "rbxassetid://120225123806435",
+        "Shiny": "rbxassetid://90255821847608",
+        "Mythic": "rbxassetid://130216478201148",
+        "ShinyMythic": "rbxassetid://127432657813726"
+    },
+    "nebula": {
+        "Normal": "rbxassetid://131132006061222",
+        "Shiny": "rbxassetid://118971288564521",
+        "Mythic": "rbxassetid://123429576754180",
+        "ShinyMythic": "rbxassetid://85080452280244"
+    },
+    "dusk": {
+        "Normal": "rbxassetid://89066931313193",
+        "Shiny": "rbxassetid://126914744556808",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "dawn": {
+        "Normal": "rbxassetid://129676752705804",
+        "Shiny": "rbxassetid://115221531612569",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "moonlight": {
+        "Normal": "rbxassetid://105329662848956",
+        "Shiny": "rbxassetid://89009838742526",
+        "Mythic": "rbxassetid://89913946001230",
+        "ShinyMythic": "rbxassetid://101837907789199"
+    },
+    "luminosity": {
+        "Normal": "rbxassetid://124773783852927",
+        "Shiny": "rbxassetid://132609819087086",
+        "Mythic": "rbxassetid://92067317285583",
+        "ShinyMythic": "rbxassetid://131286750513616"
+    },
+    "magmas": {
+        "Normal": "rbxassetid://125225288285850",
+        "Shiny": "rbxassetid://83592309171830",
+        "Mythic": "rbxassetid://80649552245148",
+        "ShinyMythic": "rbxassetid://107724917918022"
+    },
+    "dragon-plushie": {
+        "Normal": "rbxassetid://136544071549548",
+        "Shiny": "rbxassetid://92576218287248",
+        "Mythic": "rbxassetid://126021795170370",
+        "ShinyMythic": "rbxassetid://82801890357724"
+    },
+    "dice-split": {
+        "Normal": "rbxassetid://140212979301756",
+        "Shiny": "rbxassetid://128103253336307",
+        "Mythic": "rbxassetid://114639637803307",
+        "ShinyMythic": "rbxassetid://115097115638781"
+    },
+    "fancy-demon": {
+        "Normal": "rbxassetid://119579347444394",
+        "Shiny": "rbxassetid://118660693089214",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "happy-dice": {
+        "Normal": "rbxassetid://123053322701010",
+        "Shiny": "rbxassetid://111037834995435",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "game-master": {
+        "Normal": "rbxassetid://120685980526060",
+        "Shiny": "rbxassetid://126718995367861",
+        "Mythic": "rbxassetid://108919908305331",
+        "ShinyMythic": "rbxassetid://136491378615234"
+    },
+    "jackpot": {
+        "Normal": "rbxassetid://127110172492221",
+        "Shiny": "rbxassetid://116720210619976",
+        "Mythic": "rbxassetid://124077171526182",
+        "ShinyMythic": "rbxassetid://103074564849082"
+    },
+    "hell-demon": {
+        "Normal": "rbxassetid://117345924701117",
+        "Shiny": "rbxassetid://95736804924877",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "demon-angel": {
+        "Normal": "rbxassetid://117340224666898",
+        "Shiny": "rbxassetid://82921018674809",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "crimson-butterfly": {
+        "Normal": "rbxassetid://98947250842939",
+        "Shiny": "rbxassetid://82721652736276",
+        "Mythic": "rbxassetid://130584527590577",
+        "ShinyMythic": "rbxassetid://131950699145280"
+    },
+    "demonweb": {
+        "Normal": "rbxassetid://87044603225435",
+        "Shiny": "rbxassetid://135551158544963",
+        "Mythic": "rbxassetid://104440254662754",
+        "ShinyMythic": "rbxassetid://128311559664422"
+    },
+    "crimson-bloodmoon": {
+        "Normal": "rbxassetid://93618006076424",
+        "Shiny": "rbxassetid://82911153902304",
+        "Mythic": "rbxassetid://78097074748607",
+        "ShinyMythic": "rbxassetid://106742025589586"
+    },
+    "lord-shock": {
+        "Normal": "rbxassetid://121615054037109",
+        "Shiny": "rbxassetid://70512874553960",
+        "Mythic": "rbxassetid://116444708473049",
+        "ShinyMythic": "rbxassetid://111874952582221"
+    },
+    "cute-deer": {
+        "Normal": "rbxassetid://105066898757192",
+        "Shiny": "rbxassetid://73998537566687",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "emerald-wolf": {
+        "Normal": "rbxassetid://70582788554359",
+        "Shiny": "rbxassetid://120045936302928",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "prismatic": {
+        "Normal": "rbxassetid://137362257274764",
+        "Shiny": "rbxassetid://115656000957403",
+        "Mythic": "rbxassetid://72752700487333",
+        "ShinyMythic": "rbxassetid://116524561767135"
+    },
+    "darkness-creature": {
+        "Normal": "rbxassetid://71015189812068",
+        "Shiny": "rbxassetid://77940831616108",
+        "Mythic": "rbxassetid://80607872363665",
+        "ShinyMythic": "rbxassetid://138494095812890"
+    },
+    "corrupt-glitch": {
+        "Normal": "rbxassetid://135841550248902",
+        "Shiny": "rbxassetid://107162390911710",
+        "Mythic": "rbxassetid://134256729463822",
+        "ShinyMythic": "rbxassetid://92932429383097"
+    },
+    "wolflord": {
+        "Normal": "rbxassetid://136826838339898",
+        "Shiny": "rbxassetid://133326318134464",
+        "Mythic": "rbxassetid://131794631803438",
+        "ShinyMythic": "rbxassetid://73264285797253"
+    },
+    "sir-doggyton": {
+        "Normal": "rbxassetid://94063528820685",
+        "Shiny": "rbxassetid://132536969974047",
+        "Mythic": "rbxassetid://101305015300824",
+        "ShinyMythic": "rbxassetid://104208913219293"
+    },
+    "vaporium": {
+        "Normal": "rbxassetid://130153986659837",
+        "Shiny": "rbxassetid://90896435492375",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "d0ggy1337": {
+        "Normal": "rbxassetid://101480831068155",
+        "Shiny": "rbxassetid://115470554647335",
+        "Mythic": "rbxassetid://124744852365539",
+        "ShinyMythic": "rbxassetid://140729118755512"
+    },
+    "prophet": {
+        "Normal": "rbxassetid://106798281486386",
+        "Shiny": "rbxassetid://80903272343594",
+        "Mythic": "rbxassetid://129969127862955",
+        "ShinyMythic": "rbxassetid://76179950030552"
+    },
+    "queen-kitty": {
+        "Normal": "rbxassetid://137170650603605",
+        "Shiny": "rbxassetid://133386500280616",
+        "Mythic": "rbxassetid://95790796143151",
+        "ShinyMythic": "rbxassetid://122591618247775"
+    },
+    "toilet-doggy": {
+        "Normal": "rbxassetid://76051602216392",
+        "Shiny": "rbxassetid://95615548115868",
+        "Mythic": "rbxassetid://123679361775726",
+        "ShinyMythic": "rbxassetid://88821017578387"
+    },
+    "capybara-plushie": {
+        "Normal": "rbxassetid://112141171578736",
+        "Shiny": "rbxassetid://124634840337548",
+        "Mythic": "rbxassetid://85066469037815",
+        "ShinyMythic": "rbxassetid://138902589022873"
+    },
+    "neon-doggy": {
+        "Normal": "rbxassetid://93701191424697",
+        "Shiny": "rbxassetid://107641406627386",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "hologram-dragon": {
+        "Normal": "rbxassetid://92851727982995",
+        "Shiny": "rbxassetid://113364795162921",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "disco-ball": {
+        "Normal": "rbxassetid://107995513069739",
+        "Shiny": "rbxassetid://75097202660397",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "neon-wyvern": {
+        "Normal": "rbxassetid://97841765978448",
+        "Shiny": "rbxassetid://95554361638867",
+        "Mythic": "rbxassetid://129980738305727",
+        "ShinyMythic": "rbxassetid://76051322922529"
+    },
+    "neon-wire-eye": {
+        "Normal": "rbxassetid://76260255740988",
+        "Shiny": "rbxassetid://113845829936786",
+        "Mythic": "rbxassetid://90663311823833",
+        "ShinyMythic": "rbxassetid://81999044282610"
+    },
+    "equalizer": {
+        "Normal": "rbxassetid://137265866853601",
+        "Shiny": "rbxassetid://109295202145049",
+        "Mythic": "rbxassetid://121700446670841",
+        "ShinyMythic": "rbxassetid://96280637918975"
+    },
+    "hyperwave-kitty": {
+        "Normal": "rbxassetid://129087243110044",
+        "Shiny": "rbxassetid://136163493796243",
+        "Mythic": "rbxassetid://87256688829313",
+        "ShinyMythic": "rbxassetid://114636492784944"
+    },
+    "galaxy-dice": {
+        "Normal": "rbxassetid://100110102987297",
+        "Shiny": "rbxassetid://101083588638682",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "chance-dragon": {
+        "Normal": "rbxassetid://73996963777906",
+        "Shiny": "rbxassetid://95720020096683",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "ring-master": {
+        "Normal": "rbxassetid://94556201329616",
+        "Shiny": "rbxassetid://116060388002599",
+        "Mythic": "rbxassetid://101907662087977",
+        "ShinyMythic": "rbxassetid://107448565956594"
+    },
+    "royal-guardian": {
+        "Normal": "rbxassetid://128199977390934",
+        "Shiny": "rbxassetid://104507361092477",
+        "Mythic": "rbxassetid://95522630551520",
+        "ShinyMythic": "rbxassetid://97197795445737"
+    },
+    "dark-lord": {
+        "Normal": "rbxassetid://116068259071465",
+        "Shiny": "rbxassetid://103208133391728",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "chronos": {
+        "Normal": "rbxassetid://123977114641958",
+        "Shiny": "rbxassetid://94878061948211",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "cerberus": {
+        "Normal": "rbxassetid://134425768030839",
+        "Shiny": "rbxassetid://117483329191111",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "security-system": {
+        "Normal": "rbxassetid://100801467305756",
+        "Shiny": "rbxassetid://75582435565995",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "star-charm": {
+        "Normal": "rbxassetid://79214015771712",
+        "Shiny": "rbxassetid://133159315265868",
+        "Mythic": "rbxassetid://115977983725051",
+        "ShinyMythic": "rbxassetid://97582319038097"
+    },
+    "noctis": {
+        "Normal": "rbxassetid://135768436321067",
+        "Shiny": "rbxassetid://118352581213989",
+        "Mythic": "rbxassetid://104307439516841",
+        "ShinyMythic": "rbxassetid://111707474207687"
+    },
+    "bongo-kitty": {
+        "Normal": "rbxassetid://136663195599197",
+        "Shiny": "rbxassetid://136416967901658",
+        "Mythic": "rbxassetid://71107162400654",
+        "ShinyMythic": "rbxassetid://77677594709772"
+    },
+    "ground-golem": {
+        "Normal": "rbxassetid://112609148711239",
+        "Shiny": "rbxassetid://127936550770801",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "wind-fairy": {
+        "Normal": "rbxassetid://101788692135241",
+        "Shiny": "rbxassetid://93525887641889",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "water-serpent": {
+        "Normal": "rbxassetid://104556327849618",
+        "Shiny": "rbxassetid://110322062822153",
+        "Mythic": "rbxassetid://136636308571012",
+        "ShinyMythic": "rbxassetid://85621191897737"
+    },
+    "fire-guardian": {
+        "Normal": "rbxassetid://123853736189876",
+        "Shiny": "rbxassetid://118227551764569",
+        "Mythic": "rbxassetid://92204236373738",
+        "ShinyMythic": "rbxassetid://123127011127099"
+    },
+    "the-moon": {
+        "Normal": "rbxassetid://94569604837030",
+        "Shiny": "rbxassetid://99528811017451",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "the-sun": {
+        "Normal": "rbxassetid://121435694320870",
+        "Shiny": "rbxassetid://131314003756257",
+        "Mythic": "rbxassetid://124003318027272",
+        "ShinyMythic": "rbxassetid://95731727893323"
+    },
+    "tourist-doggy": {
+        "Normal": "rbxassetid://72344214522280",
+        "Shiny": "rbxassetid://85846603004081",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "seagull": {
+        "Normal": "rbxassetid://124738597084576",
+        "Shiny": "rbxassetid://79136354239885",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "beach-boi": {
+        "Normal": "rbxassetid://118949369126530",
+        "Shiny": "rbxassetid://88252988930956",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "sundae-doggy": {
+        "Normal": "rbxassetid://91508263053846",
+        "Shiny": "rbxassetid://131531651023571",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "bunny-cone": {
+        "Normal": "rbxassetid://99138669960309",
+        "Shiny": "rbxassetid://80348626133883",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "neapolitan-stack": {
+        "Normal": "rbxassetid://123953129160495",
+        "Shiny": "rbxassetid://110977698041088",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "popsicle-trio": {
+        "Normal": "rbxassetid://101226640896780",
+        "Shiny": "rbxassetid://121181274468883",
+        "Mythic": "rbxassetid://131493485238942",
+        "ShinyMythic": "rbxassetid://74857872085191"
+    },
+    "soarin-surfer": {
+        "Normal": "rbxassetid://73404794486926",
+        "Shiny": "rbxassetid://133090733032411",
+        "Mythic": "rbxassetid://95752114577641",
+        "ShinyMythic": "rbxassetid://85679986690965"
+    },
+    "sundae-cone": {
+        "Normal": "rbxassetid://78793706301299",
+        "Shiny": "rbxassetid://130276098288067",
+        "Mythic": "rbxassetid://97323750603098",
+        "ShinyMythic": "rbxassetid://132366918399483"
+    },
+    "mint-sundae-champion": {
+        "Normal": "rbxassetid://100844923085927",
+        "Shiny": "rbxassetid://95538067451707",
+        "Mythic": "rbxassetid://133398587406359",
+        "ShinyMythic": "rbxassetid://134090985493663"
+    },
+    "vanilla-sundae-champion": {
+        "Normal": "rbxassetid://123880531154896",
+        "Shiny": "rbxassetid://72746337394380",
+        "Mythic": "rbxassetid://75227121896608",
+        "ShinyMythic": "rbxassetid://135435504306531"
+    },
+    "chocolate-sundae-champion": {
+        "Normal": "rbxassetid://110040643545851",
+        "Shiny": "rbxassetid://71593193452628",
+        "Mythic": "rbxassetid://108632053997849",
+        "ShinyMythic": "rbxassetid://130170094115762"
+    },
+    "strawberry-sundae-champion": {
+        "Normal": "rbxassetid://101197747014068",
+        "Shiny": "rbxassetid://94309683692060",
+        "Mythic": "rbxassetid://120902727919127",
+        "ShinyMythic": "rbxassetid://83837815621876"
+    },
+    "strawberry-doggy": {
+        "Normal": "rbxassetid://120719334954340",
+        "Shiny": "rbxassetid://101777457596590",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "lemon-dragon": {
+        "Normal": "rbxassetid://93066434249555",
+        "Shiny": "rbxassetid://77266061394472",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "watermelon-boi": {
+        "Normal": "rbxassetid://122304474596972",
+        "Shiny": "rbxassetid://123473543481646",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "kiwi-dragon": {
+        "Normal": "rbxassetid://89901713120556",
+        "Shiny": "rbxassetid://96355267841970",
+        "Mythic": "rbxassetid://85522201965061",
+        "ShinyMythic": "rbxassetid://122336536412648"
+    },
+    "mangorium": {
+        "Normal": "rbxassetid://91193596039687",
+        "Shiny": "rbxassetid://101884514077431",
+        "Mythic": "rbxassetid://124912104329806",
+        "ShinyMythic": "rbxassetid://118319499579047"
+    },
+    "pineapple-tourist": {
+        "Normal": "rbxassetid://105032534618001",
+        "Shiny": "rbxassetid://79356426336189",
+        "Mythic": "rbxassetid://122029232797109",
+        "ShinyMythic": "rbxassetid://87507876461968"
+    },
+    "dragonfruit": {
+        "Normal": "rbxassetid://136939712343243",
+        "Shiny": "rbxassetid://134524660968000",
+        "Mythic": "rbxassetid://116030266325049",
+        "ShinyMythic": "rbxassetid://100501379429873"
+    },
+    "rune-stone": {
+        "Normal": "rbxassetid://128343838730500",
+        "Shiny": "rbxassetid://137307772861297",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "rune-guardian": {
+        "Normal": "rbxassetid://110879806024030",
+        "Shiny": "rbxassetid://86986379210750",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "runic-defender": {
+        "Normal": "rbxassetid://134171206040132",
+        "Shiny": "rbxassetid://115923590485672",
+        "Mythic": "rbxassetid://118237360482563",
+        "ShinyMythic": "rbxassetid://128226901391771"
+    },
+    "glyph-warrior": {
+        "Normal": "rbxassetid://122292286908098",
+        "Shiny": "rbxassetid://118227551764569",
+        "Mythic": "rbxassetid://109449021933747",
+        "ShinyMythic": "rbxassetid://115045490024834"
+    },
+    "beelzebub": {
+        "Normal": "rbxassetid://116544948346631",
+        "Shiny": "rbxassetid://74964732493862",
+        "Mythic": "rbxassetid://109770882225456",
+        "ShinyMythic": "rbxassetid://76851480824331"
+    },
+    "overlord-plushie": {
+        "Normal": "rbxassetid://118973131137075",
+        "Shiny": "rbxassetid://106846885916855",
+        "Mythic": "rbxassetid://108146984299667",
+        "ShinyMythic": "rbxassetid://73244864876639"
+    },
+    "everblaze": {
+        "Normal": "rbxassetid://109634170464084",
+        "Shiny": "rbxassetid://130633057237060",
+        "Mythic": "rbxassetid://100578834059310",
+        "ShinyMythic": "rbxassetid://87547488111933"
+    },
+    "runic-master": {
+        "Normal": "rbxassetid://127053290227721",
+        "Shiny": "rbxassetid://129561123780597",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "runic-prism": {
+        "Normal": "rbxassetid://131677443933580",
+        "Shiny": "rbxassetid://108049462761252",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "ancient-one": {
+        "Normal": "rbxassetid://71778947505973",
+        "Shiny": "rbxassetid://126250367370888",
+        "Mythic": "rbxassetid://109011755951467",
+        "ShinyMythic": "rbxassetid://137733978147033"
+    },
+    "monolith": {
+        "Normal": "rbxassetid://121283153389134",
+        "Shiny": "rbxassetid://85067019516525",
+        "Mythic": "rbxassetid://115764635311190",
+        "ShinyMythic": "rbxassetid://128013440489350"
+    },
+    "rigby": {
+        "Normal": "rbxassetid://111210747626876",
+        "Shiny": "rbxassetid://80628871267513",
+        "Mythic": "rbxassetid://130485565025596",
+        "ShinyMythic": "rbxassetid://94264863763418"
+    },
+    "dreamscape": {
+        "Normal": "rbxassetid://114002369659515",
+        "Shiny": "rbxassetid://138264107056992",
+        "Mythic": "rbxassetid://84742178459135",
+        "ShinyMythic": "rbxassetid://94576981252234"
+    },
+    "researcher-doggy": {
+        "Normal": "rbxassetid://82445942334699",
+        "Shiny": "rbxassetid://119122326939829",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "monkey": {
+        "Normal": "rbxassetid://98203228334026",
+        "Shiny": "rbxassetid://101113703848033",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "fossil-dragon": {
+        "Normal": "rbxassetid://134377016763911",
+        "Shiny": "rbxassetid://92453230170802",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "fossilus": {
+        "Normal": "rbxassetid://79587553068136",
+        "Shiny": "rbxassetid://124054694204497",
+        "Mythic": "rbxassetid://105691322724684",
+        "ShinyMythic": "rbxassetid://132216237092252"
+    },
+    "bug-amber": {
+        "Normal": "rbxassetid://108540792355599",
+        "Shiny": "rbxassetid://91952928147822",
+        "Mythic": "rbxassetid://80933527394425",
+        "ShinyMythic": "rbxassetid://102346513279290"
+    },
+    "fossil-ghost": {
+        "Normal": "rbxassetid://117404286713183",
+        "Shiny": "rbxassetid://114201362491904",
+        "Mythic": "rbxassetid://77631641009656",
+        "ShinyMythic": "rbxassetid://98399293178832"
+    },
+    "kraken": {
+        "Normal": "rbxassetid://104192905982933",
+        "Shiny": "rbxassetid://79711609777243",
+        "Mythic": "rbxassetid://70528429688452",
+        "ShinyMythic": "rbxassetid://127028300416726"
+    },
+    "air-basilisk": {
+        "Normal": "rbxassetid://139778028181938",
+        "Shiny": "rbxassetid://99346272180580",
+        "Mythic": "rbxassetid://73453792484233",
+        "ShinyMythic": "rbxassetid://78115323049103"
+    },
+    "ice-basilisk": {
+        "Normal": "rbxassetid://127291867634438",
+        "Shiny": "rbxassetid://101044252278631",
+        "Mythic": "rbxassetid://130907401549471",
+        "ShinyMythic": "rbxassetid://92957408100512"
+    },
+    "electric-basilisk": {
+        "Normal": "rbxassetid://132413355493634",
+        "Shiny": "rbxassetid://136569988991636",
+        "Mythic": "rbxassetid://84742117573959",
+        "ShinyMythic": "rbxassetid://71077256129672"
+    },
+    "fire-basilisk": {
+        "Normal": "rbxassetid://94721519490336",
+        "Shiny": "rbxassetid://85984406556579",
+        "Mythic": "rbxassetid://79479777952071",
+        "ShinyMythic": "rbxassetid://86978762264411"
+    },
+    "pirate-kitty": {
+        "Normal": "rbxassetid://81090912302581",
+        "Shiny": "rbxassetid://87905430880701",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "strawhat-dragon": {
+        "Normal": "rbxassetid://98527190135898",
+        "Shiny": "rbxassetid://73403613496150",
+        "Mythic": null,
+        "ShinyMythic": null
+    },
+    "captain-monkey": {
+        "Normal": "rbxassetid://87937861341146",
+        "Shiny": "rbxassetid://105769121092521",
+        "Mythic": "rbxassetid://88377926928596",
+        "ShinyMythic": "rbxassetid://128362577169234"
+    },
+    "chest-mimic": {
+        "Normal": "rbxassetid://139248199918538",
+        "Shiny": "rbxassetid://122250936755450",
+        "Mythic": "rbxassetid://88418330246670",
+        "ShinyMythic": "rbxassetid://97760000047031"
+    },
+    "captains-curse": {
+        "Normal": "rbxassetid://100277795348555",
+        "Shiny": "rbxassetid://79211934661020",
+        "Mythic": "rbxassetid://78850882610486",
+        "ShinyMythic": "rbxassetid://105746802239426"
+    },
+    "infernal": {
+        "Normal": "rbxassetid://92325458777920",
+        "Shiny": "rbxassetid://79498394985069",
+        "Mythic": "rbxassetid://79041379683435",
+        "ShinyMythic": "rbxassetid://137596047110173"
+    },
+    "carrot-pufferfish": {
+        "Normal": "rbxassetid://114518137029852",
+        "Shiny": "rbxassetid://138990361148894",
+        "Mythic": "rbxassetid://85978723203535",
+        "ShinyMythic": "rbxassetid://137063739338154"
+    },
+    "crystal-teddy": {
+        "Normal": "rbxassetid://75953640383275",
+        "Shiny": "rbxassetid://102781136298922",
+        "Mythic": "rbxassetid://84095805510172",
+        "ShinyMythic": "rbxassetid://120948656338740"
+    },
+    "doggy-pile": {
+        "Normal": "rbxassetid://136232522819010",
+        "Shiny": "rbxassetid://121472227938556",
+        "Mythic": null,
+        "ShinyMythic": null
+    }
+}
